@@ -1,0 +1,5 @@
+﻿  BigInteger.cpp
+d:\study\fmi\1 курс\2 семестър\ооп практикум\hw2_71710_filipsiderov\homework2\homework2\biginteger.cpp(422): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+d:\study\fmi\1 курс\2 семестър\ооп практикум\hw2_71710_filipsiderov\homework2\homework2\biginteger.cpp(451): warning C4018: '<': signed/unsigned mismatch
+  homework2.vcxproj -> D:\Study\FMI\1 Курс\2 Семестър\ООП Практикум\HW2_71710_FilipSiderov\homework2\Debug\homework2.exe
+  homework2.vcxproj -> D:\Study\FMI\1 Курс\2 Семестър\ООП Практикум\HW2_71710_FilipSiderov\homework2\Debug\homework2.pdb (Full PDB)
