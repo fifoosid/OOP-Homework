@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Vehicle.cpp
+  Truck.cpp
+  Trailer.cpp
+  String.cpp
+d:\study\fmi\1 курс\2 семестър\ооп практикум\homework3\hw_71710_praktikum\string.cpp(16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\study\fmi\1 курс\2 семестър\ооп практикум\homework3\hw_71710_praktikum\string.cpp(67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\study\fmi\1 курс\2 семестър\ооп практикум\homework3\hw_71710_praktikum\string.cpp(78): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Motorcycle.cpp
+  HW_71710_Praktikum.cpp
+  Car.cpp
+  Generating Code...
+d:\study\fmi\1 курс\2 семестър\ооп практикум\homework3\hw_71710_praktikum\string.cpp(62): warning C4715: 'String::getPointer': not all control paths return a value
+  HW_71710_Praktikum.vcxproj -> D:\Study\FMI\1 Курс\2 Семестър\ООП Практикум\homework3\x64\Debug\HW_71710_Praktikum.exe
+  HW_71710_Praktikum.vcxproj -> D:\Study\FMI\1 Курс\2 Семестър\ООП Практикум\homework3\x64\Debug\HW_71710_Praktikum.pdb (Partial PDB)
