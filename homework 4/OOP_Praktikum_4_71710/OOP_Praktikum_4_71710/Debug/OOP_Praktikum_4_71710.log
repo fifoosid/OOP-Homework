@@ -1,0 +1,16 @@
+﻿  OfficeConnections.cpp
+d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\officeconnections.cpp(4): error C2653: 'OfficeConnections': is not a class or namespace name
+  Office.cpp
+d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\office.cpp(6): error C2512: 'Person': no appropriate default constructor available
+d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\office.cpp(7): warning C4018: '<': signed/unsigned mismatch
+d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\office.cpp(9): error C2676: binary '[': 'Person' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\office.cpp(15): error C2259: 'Shipments': cannot instantiate abstract class
+  d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\office.cpp(15): note: due to following members:
+  d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\office.cpp(15): note: 'double Shipments::CalculatePrice(TypeOfShipment) const': is abstract
+  d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\shipments.h(38): note: see declaration of 'Shipments::CalculatePrice'
+d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\office.cpp(15): error C2512: 'Shipments': no appropriate default constructor available
+d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\office.cpp(16): warning C4018: '<': signed/unsigned mismatch
+d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\office.cpp(34): warning C4018: '<': signed/unsigned mismatch
+d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\office.cpp(41): warning C4018: '<': signed/unsigned mismatch
+d:\study\fmi\1 курс\2 семестър\ооп практикум\oop_praktikum_4_71710\oop_praktikum_4_71710\office.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
